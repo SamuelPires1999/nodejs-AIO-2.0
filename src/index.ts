@@ -1,1 +1,1 @@
-console.log("hello typescript edited");
+console.log("Nodejs AIO boilerplate 2.0");
